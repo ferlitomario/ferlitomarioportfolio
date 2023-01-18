@@ -5,3 +5,11 @@
  */
 
 // You can delete this file if you're not using it
+
+
+
+import "@fontsource/akaya-kanadaka";
+import "@fontsource/alfa-slab-one";
+import "@fontsource/allerta-stencil";
+import "@fontsource/alumni-sans-inline-one";
+import "@fontsource/bhutuka-expanded-one";

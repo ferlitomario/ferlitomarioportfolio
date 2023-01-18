@@ -1,0 +1,37 @@
+/* Create a file called 'header.css' and insert this code */
+
+header {
+    display: flex;
+    align-items: center;
+    color:black;
+    padding: 1rem;
+  }
+  
+  .logo {
+    margin-right: 1rem;
+  }
+  
+  .logo img {
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .a {
+      text-align: right;
+      size: 3rem;
+      color: black;
+      
+  }
+
+  nav {
+    margin-left: auto; /* posiziona il nav a destra */
+  }
+
+  nav a {
+    padding: 0.5rem; 
+    font-size: 1.2rem; 
+    color: black;
+  }
+  
