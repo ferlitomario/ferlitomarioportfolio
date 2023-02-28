@@ -40,14 +40,8 @@ const projectsData = [
     description:"I created a chat-GPT clone using openAI's API.After entering the data in the prompt the image of the request will be displayed",
     Url: "https://github.com/ferlitomario"
 
-  },
-  {
-    img: image2,
-    title: "Linux-OS Projects ",
-    description:"I have developed several projects for university courses in Linux using the c language or using the SHELL.",
-    Url: "https://github.com/ferlitomario"
-
   }
+  
 ]
 
 
